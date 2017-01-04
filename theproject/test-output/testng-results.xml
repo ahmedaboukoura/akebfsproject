@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sampleTest" duration-ms="100195" started-at="2017-01-04T12:41:02Z" finished-at="2017-01-04T12:42:42Z">
+    <groups>
+    </groups>
+    <test name="sample-Test" duration-ms="100195" started-at="2017-01-04T12:41:02Z" finished-at="2017-01-04T12:42:42Z">
+      <class name="com.TestCases.TestCase5">
+        <test-method status="PASS" signature="openthebrowser()[pri:0, instance:com.TestCases.TestCase5@48503868]" name="openthebrowser" is-config="true" duration-ms="8783" started-at="2017-01-04T07:42:15Z" finished-at="2017-01-04T07:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openthebrowser -->
+        <test-method status="PASS" signature="testCase51()[pri:0, instance:com.TestCases.TestCase5@48503868]" name="testCase51" duration-ms="16879" started-at="2017-01-04T07:42:24Z" finished-at="2017-01-04T07:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase51 -->
+        <test-method status="PASS" signature="closingthebrowser()[pri:0, instance:com.TestCases.TestCase5@48503868]" name="closingthebrowser" is-config="true" duration-ms="752" started-at="2017-01-04T07:42:41Z" finished-at="2017-01-04T07:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingthebrowser -->
+      </class> <!-- com.TestCases.TestCase5 -->
+      <class name="com.TestCases.TestCase4">
+        <test-method status="PASS" signature="openthebrowser()[pri:0, instance:com.TestCases.TestCase4@10bbd20a]" name="openthebrowser" is-config="true" duration-ms="6577" started-at="2017-01-04T07:42:02Z" finished-at="2017-01-04T07:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openthebrowser -->
+        <test-method status="PASS" signature="TestCase41()[pri:0, instance:com.TestCases.TestCase4@10bbd20a]" name="TestCase41" duration-ms="3096" started-at="2017-01-04T07:42:09Z" finished-at="2017-01-04T07:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase41 -->
+        <test-method status="PASS" signature="TestCase42()[pri:1, instance:com.TestCases.TestCase4@10bbd20a]" name="TestCase42" duration-ms="604" started-at="2017-01-04T07:42:12Z" finished-at="2017-01-04T07:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase42 -->
+        <test-method status="PASS" signature="closingthebrowser()[pri:0, instance:com.TestCases.TestCase4@10bbd20a]" name="closingthebrowser" is-config="true" duration-ms="2565" started-at="2017-01-04T07:42:13Z" finished-at="2017-01-04T07:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingthebrowser -->
+      </class> <!-- com.TestCases.TestCase4 -->
+      <class name="com.TestCases.TestCase3">
+        <test-method status="PASS" signature="openthebrowser()[pri:0, instance:com.TestCases.TestCase3@64729b1e]" name="openthebrowser" is-config="true" duration-ms="7369" started-at="2017-01-04T07:41:29Z" finished-at="2017-01-04T07:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openthebrowser -->
+        <test-method status="PASS" signature="TestCase31()[pri:0, instance:com.TestCases.TestCase3@64729b1e]" name="TestCase31" duration-ms="2344" started-at="2017-01-04T07:41:36Z" finished-at="2017-01-04T07:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase31 -->
+        <test-method status="PASS" signature="TestCase32()[pri:1, instance:com.TestCases.TestCase3@64729b1e]" name="TestCase32" duration-ms="20505" started-at="2017-01-04T07:41:38Z" finished-at="2017-01-04T07:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase32 -->
+        <test-method status="PASS" signature="TestCase33()[pri:2, instance:com.TestCases.TestCase3@64729b1e]" name="TestCase33" duration-ms="1299" started-at="2017-01-04T07:41:59Z" finished-at="2017-01-04T07:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase33 -->
+        <test-method status="PASS" signature="closingthebrowser()[pri:0, instance:com.TestCases.TestCase3@64729b1e]" name="closingthebrowser" is-config="true" duration-ms="2404" started-at="2017-01-04T07:42:00Z" finished-at="2017-01-04T07:42:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingthebrowser -->
+      </class> <!-- com.TestCases.TestCase3 -->
+      <class name="com.TestCases.TestCase2">
+        <test-method status="PASS" signature="openthebrowser()[pri:0, instance:com.TestCases.TestCase2@4e7dc304]" name="openthebrowser" is-config="true" duration-ms="6958" started-at="2017-01-04T07:41:16Z" finished-at="2017-01-04T07:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openthebrowser -->
+        <test-method status="PASS" signature="TestCase21()[pri:1, instance:com.TestCases.TestCase2@4e7dc304]" name="TestCase21" duration-ms="3140" started-at="2017-01-04T07:41:23Z" finished-at="2017-01-04T07:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase21 -->
+        <test-method status="PASS" signature="closingthebrowser()[pri:0, instance:com.TestCases.TestCase2@4e7dc304]" name="closingthebrowser" is-config="true" duration-ms="2231" started-at="2017-01-04T07:41:26Z" finished-at="2017-01-04T07:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingthebrowser -->
+      </class> <!-- com.TestCases.TestCase2 -->
+      <class name="com.TestCases.TestCase1">
+        <test-method status="PASS" signature="LoadPropFile()[pri:0, instance:com.TestCases.TestCase1@2d6eabae]" name="LoadPropFile" is-config="true" duration-ms="19" started-at="2017-01-04T07:41:02Z" finished-at="2017-01-04T07:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadPropFile -->
+        <test-method status="PASS" signature="LoadPropFile()[pri:0, instance:com.TestCases.TestCase2@4e7dc304]" name="LoadPropFile" is-config="true" duration-ms="1" started-at="2017-01-04T07:41:02Z" finished-at="2017-01-04T07:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadPropFile -->
+        <test-method status="PASS" signature="LoadPropFile()[pri:0, instance:com.TestCases.TestCase3@64729b1e]" name="LoadPropFile" is-config="true" duration-ms="1" started-at="2017-01-04T07:41:02Z" finished-at="2017-01-04T07:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadPropFile -->
+        <test-method status="PASS" signature="LoadPropFile()[pri:0, instance:com.TestCases.TestCase4@10bbd20a]" name="LoadPropFile" is-config="true" duration-ms="1" started-at="2017-01-04T07:41:02Z" finished-at="2017-01-04T07:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadPropFile -->
+        <test-method status="PASS" signature="LoadPropFile()[pri:0, instance:com.TestCases.TestCase5@48503868]" name="LoadPropFile" is-config="true" duration-ms="0" started-at="2017-01-04T07:41:02Z" finished-at="2017-01-04T07:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadPropFile -->
+        <test-method status="PASS" signature="openthebrowser()[pri:0, instance:com.TestCases.TestCase1@2d6eabae]" name="openthebrowser" is-config="true" duration-ms="8025" started-at="2017-01-04T07:41:02Z" finished-at="2017-01-04T07:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openthebrowser -->
+        <test-method status="PASS" signature="TestCase12()[pri:1, instance:com.TestCases.TestCase1@2d6eabae]" name="TestCase12" duration-ms="5286" started-at="2017-01-04T07:41:10Z" finished-at="2017-01-04T07:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase12 -->
+        <test-method status="PASS" signature="closingthebrowser()[pri:0, instance:com.TestCases.TestCase1@2d6eabae]" name="closingthebrowser" is-config="true" duration-ms="1342" started-at="2017-01-04T07:41:15Z" finished-at="2017-01-04T07:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingthebrowser -->
+      </class> <!-- com.TestCases.TestCase1 -->
+    </test> <!-- sample-Test -->
+  </suite> <!-- sampleTest -->
+</testng-results>
