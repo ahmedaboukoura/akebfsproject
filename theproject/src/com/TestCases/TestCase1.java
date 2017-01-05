@@ -91,8 +91,8 @@ public class TestCase1 {
 				System.out.println(argColor);
 				test.log(Status.INFO, "getting the field color after writting an invalid email.");  
 				if(argColor.contains("rgba(241, 51, 64, 1)")){
-				test.log(Status.PASS, "Email Address Filed is Red in color to indicate invalid Email Address.");
-				}else{
+					test.log(Status.PASS, "Email Address Filed is Red in color to indicate invalid Email Address.");
+			   	}else{
 					test.log(Status.FAIL, "Email Address Filed is not Red in color to indicate invalid Email Address.");
 					String ImagePath = sc.CaptureScreen(driver,imagepath1);
 			       	test.addScreenCaptureFromPath("image1.jpg");
